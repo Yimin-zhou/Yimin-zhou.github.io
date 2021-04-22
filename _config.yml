@@ -6,7 +6,7 @@ tags:
   - blog
   - TA
   - Technical art
-show_hero: true
+show_hero: false
 menu:
   - title: 主页
     url: /

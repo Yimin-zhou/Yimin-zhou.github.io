@@ -1,15 +1,34 @@
 # Site Settings
-#=include site.yml
+name: Fries-Tech-Art
+title: FriesNosauce's blog
+description: 一个记录个人学习的技术美术博客
+tags:
+  - blog
+  - TA
+  - Technical art
+show_hero: false
+menu:
+  - title: 主页
+    url: /
+  - title: 关于
+    url: /about
 
-# Social Media Settings
-# Remove the item if you don't need it
-#=include social.yml
 
 # Posts Settings
-#=include posts.yml
+show_time_bar: false
+show_modal_on_exit: false
+show_modal_on_finish_post: false
+two_columns_layout: false
+
 
 # Advanced Settings
-#=include advanced.yml
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+google_analytics: "UA-XXXXXXXX-X"
+language: "en"
+categories_folder: category
+sent_message_url: "/contact/message-sent/"
+
 
 # Build settings
 markdown: kramdown
@@ -19,12 +38,12 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
 paginate_content:
-  enabled: true
+  enabled: false
   debug: false
   collections:
     - posts
@@ -63,4 +82,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.1
+
