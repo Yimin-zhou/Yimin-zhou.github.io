@@ -5,7 +5,7 @@ title: 三层ramp二次元Shader
 subtitle: 一个简单的二次元效果
 description: >-
   unity实现一个简单的二次元效果
-image: https://i.ibb.co/tCjDDyM/3.gif
+image: http://m.qpic.cn/psc?/V530uYzV2Y3cQq2jqpuY4TKjpB2M9Xmb/TmEUgtj9EK6.7V8ajmQrEHIl47ZBxKnRPFbGgafRiV2ziLsIj67f3ok4wWTMP4RBZs66buxEdf2Suu.BDOAIz2sdk7jXxx63mBx4yYl2B7I!/b&bo=.AKPAfgCjwECKQ0!&rf=viewer_4
 category: 效果
 tags:
   - shader

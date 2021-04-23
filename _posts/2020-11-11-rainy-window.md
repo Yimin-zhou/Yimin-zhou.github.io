@@ -5,7 +5,7 @@ title: 雨天窗户Shader
 subtitle: 一个下雨天窗户效果
 description: >-
   在Unity实现的一个下雨天窗户效果
-image: https://i.ibb.co/sj3b0Nt/image.gif
+image: http://m.qpic.cn/psc?/V530uYzV2Y3cQq2jqpuY4TKjpB2M9Xmb/TmEUgtj9EK6.7V8ajmQrEPPZP4h1gE7ga60KdAv4wAh50Uw7ECTangd843skNtlEScJC*VJzr5D0V*vbTPc18LNlekPE9j7WYfr*qpZrWpI!/b&bo=.AKPAfgCjwECSW0!&rf=viewer_4
 category: 效果
 tags:
   - shader

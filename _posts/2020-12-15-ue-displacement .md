@@ -5,7 +5,7 @@ title: UE置换Shader
 subtitle: 置换效果的简单尝试
 description: >-
   虚幻4中对于置换效果的尝试
-image: https://i.ibb.co/QJQQKpw/1.gif
+image: http://m.qpic.cn/psc?/V530uYzV2Y3cQq2jqpuY4TKjpB2M9Xmb/TmEUgtj9EK6.7V8ajmQrEIrknH6gdFXpljcW57bKZK0cIFeR*fDU.0Fh4YhkbjVdFbLSRjY*RwrXiKsom0pvH3c5QhsBnh4VhV5qlZEmet0!/b&bo=.AKPAfgCjwECWX0!&rf=viewer_4
 category: 效果
 tags:
   - shader
