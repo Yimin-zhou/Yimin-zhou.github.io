@@ -5,7 +5,7 @@ title: UE鱼的动画Shader
 subtitle: 利用顶点位移来实现动画
 description: >-
   虚幻4中利用顶点位移来实现动画
-image: //r.photo.store.qq.com/psc?/V530uYzV2Y3cQq2jqpuY4TKjpB2M9Xmb/TmEUgtj9EK6.7V8ajmQrELbZw9G4otCtP3Hr7W9xFycg2MPSVOxOndTAAxSDcFMB*X03USzXpV*dy43lZxLFYWS3a*zAjYZAdfeCan4ly44!/b&bo=.AKPAfgCjwECaU0!&rf=viewer_4/r/_yake_qzoneimgout.png
+image: https://ws1.sinaimg.cn/large/007TsqRTgy1gqsim8uptag30l40b3b2a.gif
 category: 效果
 tags:
   - shader

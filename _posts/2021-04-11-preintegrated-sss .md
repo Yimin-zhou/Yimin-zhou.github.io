@@ -5,7 +5,7 @@ title: 预积分的皮肤SSS效果
 subtitle: 皮肤次表面散射
 description: >-
   在Unity实现的预积分的皮肤SSS效果
-image: //r.photo.store.qq.com/psc?/V530uYzV2Y3cQq2jqpuY4TKjpB2M9Xmb/TmEUgtj9EK6.7V8ajmQrEHoaX9ZsHDM*TIl3ijwFNz7KUIMhRL8mn2uZJynXaZQ5iRcZNBkAl80fO*nNuO0nXjl4h8G8K.Dkg9R7Ukd6Ypk!/b&bo=.AKPAfgCjwECKQ0!&rf=viewer_4/r/_yake_qzoneimgout.png
+image: https://ws1.sinaimg.cn/large/007TsqRTgy1gqsilxyh6tg30l40b3ag0.gif
 category: 效果
 tags:
   - shader

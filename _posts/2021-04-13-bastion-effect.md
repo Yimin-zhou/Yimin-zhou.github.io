@@ -5,7 +5,7 @@ title: 物体组装特效
 subtitle: 物体从消失到出现的特效
 description: >-
   在Unreal实现的物体组装特效
-image: //r.photo.store.qq.com/psc?/V530uYzV2Y3cQq2jqpuY4TKjpB2M9Xmb/TmEUgtj9EK6.7V8ajmQrEAGBjnG90TUkBDwxQnOpv1NNikDpkHQ3MTtjv4f9ZbODp6t6jNheBtS*H6GrPV6fPSNJa1KpR.MEH*4Ye2RWQA4!/b&bo=.AKPAfgCjwECWX0!&rf=viewer_4/r/_yake_qzoneimgout.png
+image: https://ws1.sinaimg.cn/large/007TsqRTgy1gqsim34sfdg30l40b3qv5.gif
 category: 效果
 tags:
   - shader

@@ -5,7 +5,7 @@ title: 战双效果尝试
 subtitle: 根据素材尝试还原战双卡通效果
 description: >-
   在Unity根据素材尝试还原战双卡通效果
-image: //r.photo.store.qq.com/psc?/V530uYzV2Y3cQq2jqpuY4TKjpB2M9Xmb/TmEUgtj9EK6.7V8ajmQrEI03AOV*rN1zOkpxKQqSfY9X*PoPbM2P6zhH7pViguAxSqc932Ekl7bStUsZMv4pyxYwDRKJndDffXSdDwZL2wQ!/b&bo=.AKPAfgCjwECaU0!&rf=viewer_4/r/_yake_qzoneimgout.png
+image: https://ws1.sinaimg.cn/large/007TsqRTgy1gqsimaobsig30l40b31ky.gif
 category: 效果
 tags:
   - shader
