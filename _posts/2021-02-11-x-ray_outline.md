@@ -5,7 +5,7 @@ title: 通过模板测试的透视描边
 subtitle: 透视描边效果
 description: >-
   在Unity中用模板测试实现的简单描边效果
-image: https://ws1.sinaimg.cn/large/007TsqRTgy1gqsim4yhxng30l40b3npd.gif
+image: //r.photo.store.qq.com/psc?/V530uYzV2Y3cQq2jqpuY4TKjpB2M9Xmb/TmEUgtj9EK6.7V8ajmQrEIUQJiUGQNp7RfGIsbOPR0INTRZSU73m5SfzCMS*NFEHwN4yUP1Sg1j2vodmc9RP.TawjLtbdbv4xdlWPFTa.KM!/b&bo=.AKPAfgCjwECWX0!&rf=viewer_4/r/_yake_qzoneimgout.png
 category: 效果
 tags:
   - shader
